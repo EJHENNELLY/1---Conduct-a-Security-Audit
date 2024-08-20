@@ -105,11 +105,15 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 
 ## Recommendations (optional)
 
-After researching Botium Toys's security posture, the analysts agreed that the security practice is far from the expectation. It lacks of protection of confidentialiy of sensitive information. The following are:
-1. Least privilege
-2. Disaster recovery plan
-3. Password policies
-4. Encryption
-5. Password management system
+Based on the information present in the Risk Assessment Report and after the completion of the Controls and Compliance Checklist, below are my recommendations for enhancing the security and compliance posture of Botium Toys.
 
-To address gaps in compliance, Botium needs to implement and establish the policies that can address the following above. Botium also needs to update its assets so the additional control can be identified as soon as possible to improve their security practice. 
+1. Make sure there are backups of critical data
+2. Update Password Policy to comply with current minimum password complexity requirements (at least 8 characters, at least one number; special character)
+3. Create a centralized password management system that enforces the password policy’s minimum requirements
+4. Least Priviledge. Limit employees’ access to the least amount of access required to perform their jobs
+5. Implement encryption to ensure confidentiality of customer PII/SPII
+6. Install IDS
+7. Create Disaster Recovery Plan 
+8. Create a regular schedule to monitor and maintain legacy systems 
+
+To address gaps in compliance, Botium needs to implement and establish the policies listed above. Botium also needs to update its assets so the additional control can be identified as soon as possible to improve their security practice. 
